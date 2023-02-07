@@ -1,0 +1,36 @@
+body {
+  background-color: rgba(225, 120, 190, 0.886);
+  color: white;
+}
+header {
+  background-color: rgb(205, 38, 135);
+  color: rgb(235, 164, 206);
+}
+section {
+  background-color: rgb(255, 205, 246);
+  color: rgb(243, 68, 208);
+}
+nav {
+  background-color: rgb(239, 140, 176);
+}
+#about {
+  background-color: blue;
+}
+#boxmodel {
+  background-color: orchid;
+}
+#units {
+  background-color: aquamarine;
+}
+#fonts {
+  background-color: yellow;
+}
+.codebox {
+  background-color: bisque;
+}
+nav > ul {
+  list-style-type: none;
+}
+nav li {
+  background-color: black;
+}
